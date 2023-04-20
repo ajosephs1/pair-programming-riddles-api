@@ -1,0 +1,77 @@
+[
+    {
+        "question": "The more you code, the more of me there is. I may be gone for now but you can’t get rid of me forever. What am I?",
+        "answer": "A bug",
+        "difficulty": "easy"
+    },
+    {
+        "question": "I’m a language for everything yet I have no real identity of my own. Good luck trying to compile me. What am I?",
+        "answer": "Pseudocode",
+        "difficulty": "easy"
+    },
+    {
+        "question": "As a developer I’m your eyes, showing you the result of your code in your language of choice. What am I?",
+        "answer": "A print statement",
+        "difficulty": "easy"
+    },
+    {
+        "question": "I’m fundamental and used to build larger structures. While you’ll find many different kinds of me, we all just mess with information in different ways. What am I?",
+        "answer": "A data structure",
+        "difficulty": "easy"
+    },
+    {
+        "question": "As a developer, you usually get mad at me because I complain a lot, although I’m usually right. What am I?",
+        "answer": "A compiler",
+        "difficulty": "medium"
+    },
+    {
+        "question": "I’m sent before I’m ready, I’ll break before you know it and you can’t find me many places. What am I?",
+        "answer": "A beta release",
+        "difficulty": "medium"
+    },
+    {
+        "question": "I’m a simple thing, nothing special. While I have many cousins we’re all very similar because we set your project up. What am I?",
+        "answer": "A configuration file",
+        "difficulty": "medium"
+    },
+    {
+        "question": " I’m pretty focused so I don’t do too much. However whatever you wish is my command. What am I?",
+        "answer": "A command",
+        "difficulty": "medium"
+    },
+    {
+        "question": "I catch you and your teammates when you fall and I can be you in a pinch. What am I?",
+        "answer": "A product/project manager",
+        "difficulty": "hard"
+    },
+    {
+        "question": "I’m your “waiter” for information. What I am?",
+        "answer": "A server",
+        "difficulty": "hard"
+    },
+    {
+        "question": "I come small, as small as you can get in fact. With many well-thought-out versions of me I bring stability. What am I?",
+        "answer": "A unit test",
+        "difficulty": "hard"
+    },
+    {
+        "question": "You make me often and you’re always messing with me by pushing and pulling me all the time. Don’t you have any manners 😠😤? What am I?",
+        "answer": "Code",
+        "difficulty": "hard"
+    },
+    {
+        "question": "I’m a shape shifter. You could call me someone who could possess multiple qualities but only has one set of them at any given time. What am I?",
+        "answer": "Polymorphism",
+        "difficulty": "hard"
+    },
+    {
+        "question": "I’m a red and black structure and often forgotten about after learned. Although you almost always use a different color of me for Christmas. What am I?",
+        "answer": "A red-black tree",
+        "difficulty": "extremely-hard"
+    },
+    {
+        "question": "I have a pulse but no heart, a brain but can’t think and while I can sleep, I usually don’t stay asleep for long? What am I?",
+        "answer": "A CPU",
+        "difficulty": "extremely-hard"
+    }
+]
